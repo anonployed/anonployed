@@ -1,5 +1,3 @@
-## gm
-
 [<img src="https://i.imgur.com/pUZJtkp.png" width="100">](https://collectors.poap.xyz/token/3192542)
 [<img src="https://assets.poap.xyz/s15-contributor-at-gitcoin-fdd-2022-logo-1667227180251.png" width="100">](https://collectors.poap.xyz/token/5838765)
 [<img src="https://assets.poap.xyz/kzg-ceremony-contributor-2023-logo-1697634378053.png" width="100">](https://collectors.poap.xyz/token/6847380)
