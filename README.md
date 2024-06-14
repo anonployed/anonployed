@@ -11,6 +11,6 @@
 [<img src="https://assets.poap.xyz/poapathon-pogs-poaps-ethdenver-series-poapathon-partner-2022-logo-1644679366624.png" width="100">](https://collectors.poap.xyz/token/4095154)
 [<img src="https://assets.poap.xyz/mega-alpha-lol-jk-2021-logo-1630640083976.png" width="100">](https://collectors.poap.xyz/token/1045597)
 [<img src="https://assets.poap.xyz/raave-eth-amsterdam-2022-2022-logo-1649178876067.png" width="100">](https://collectors.poap.xyz/token/4822242)
-[<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2x1dXBsbXVoOWNxNWQ3Z2ducnRsM3phMHJhNTFzN3dydzJtb2ZpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iuMbQW0hsPDV0psAPv/source.gif" width="100">](https://collectors.poap.xyz/token/6622790)
+[<img src="https://i.imgur.com/9VV4w5W.png" width="100">](https://collectors.poap.xyz/token/6622790)
 [<img src="https://i.imgur.com/HowY996.png" width="70">](https://x.com/anonployed)
 
