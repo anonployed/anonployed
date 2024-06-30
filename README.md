@@ -14,3 +14,8 @@
 [<img src="https://i.imgur.com/9VV4w5W.png" width="100">](https://collectors.poap.xyz/token/6622790)
 [<img src="https://i.imgur.com/HowY996.png" width="70">](https://x.com/anonployed)
 
+<h1 align="center">
+  <img src="https://basedsummer.vercel.app/img/bulmita.png" alt="Bulmita" style="width: 100px; height: auto; margin-right: 20px;" />
+  <a href="https://basedsummer.vercel.app/" style="color: #0052FF; font-size: 48px; text-decoration: none;"><strong>ᗷᗩᔑEᗪ ᔑᑌᗰᗰEᖇ</strong></a>
+  <img src="https://basedsummer.vercel.app/img/vgtbase.png" alt="VGT Base" style="width: 100px; height: auto; margin-left: 20px;" />
+</h1>
